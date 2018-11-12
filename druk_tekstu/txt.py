@@ -1,0 +1,7 @@
+	AN "A-krok_00"
+	AN "A-krok_01"
+	AN "A-krok_02"
+	AN "A-krok_03"
+	AN "A-krok_04"
+	AN "A-krok_50"
+	=  "A-krok_brak"
